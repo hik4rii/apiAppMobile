@@ -1,0 +1,14 @@
+{
+  "alumnos": [
+    { "id": 1, "nombre": "Don Pepe", "correo": "donpepe@gmail.com", "contraseña": "pepedon123", "carrera": "Analista Programador Computacional", "foto": ""}
+  ],
+  "profe": [
+    { "id": 1, "nombre": "Luis Dimas", "correo": "luisdimas@gmail.com", "contraseña": "nuncanunca123", "asignatura": "1", "foto": "" }
+  ],
+  "asignatura": [
+   { "id": 1, "nombre": "Programación Mobile", "secccion":"001D", "profe":"Luis Dimas", "foto":"" }
+  ],
+  "carrera": [
+    { "id": 1 , "nombre": "Analista Programador Computacional" }
+  ]
+}
