@@ -6,9 +6,9 @@
     { "id": 1, "nombre": "Luis Dimas", "correo": "luisdimas@gmail.com", "contraseña": "nuncanunca123", "idAsignatura":[ 10,30], "foto": "" }
   ],
   "asignatura": [
-   { "id": 10, "nombre": "Programación Mobile", "secccion": "001D", "foto":"" },
-   { "id": 20, "nombre": "Consulta de Bases de Datos", "secccion": "001D", "profe":"Luis Dimas", "foto":"" },
-   { "id": 30, "nombre": "Portafolio de Titulo", "secccion": "001D", "profe":"Luis Dimas", "foto":"" }
+   { "id": 10, "nombre": "Programación Mobile", "seccion": "001D", "foto":"" },
+   { "id": 20, "nombre": "Consulta de Bases de Datos", "seccion": "001D", "profe":"Luis Dimas", "foto":"" },
+   { "id": 30, "nombre": "Portafolio de Titulo", "seccion": "001D", "profe":"Luis Dimas", "foto":"" }
   ]
 
 }
