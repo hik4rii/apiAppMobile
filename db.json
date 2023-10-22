@@ -1,6 +1,6 @@
 {
   "alumnos": [
-    { "id": 1, "nombre": "Don Pepe", "correo": "donpepe@gmail.com", "contraseña": "pepedon123", "carrera": "Analista Programador Computacional", "foto": "https://play-lh.googleusercontent.com/fbOvQorG4BTqroLNqDGQyL_EGoiG80QQAtC2BiBO31hpR1Wx7OQk401ztq1kvECT2nk" },
+    { "id": 1, "nombre": "Don Pepe", "correo": "donpepe@gmail.com", "contraseña": "pepedon123", "carrera": "Analista Programador Computacional", "foto": "https://pbs.twimg.com/media/E5tFm_HXoAAUDKH.jpg" },
     { "id": 2, "nombre": "Carlos Pinto", "correo": "carlospinto@gmail.com", "contraseña": "carlos123", "carrera": "Analista Programador Computacional", "foto": "https://elfiltrador.com/wp-content/uploads/2020/01/Carlos-Pinto-1.jpg" },
     { "id": 3, "nombre": "Juan Carlos Bodoque", "correo": "jcbodoque@gmail.com", "contraseña": "juancab123", "carrera": "Analista Programador Computacional", "foto": "https://pm1.aminoapps.com/6559/4ff0e274771eb5fd6078846f0ea65680ac29b998_00.jpg" },
     { "id": 4, "nombre": "Skrillex", "correo": "skrillex@gmail.com", "contraseña": "licuadoras123", "carrera": "Analista Programador Computacional", "foto": "https://www.atlanticrecords.com/sites/g/files/g2000015596/files/styles/artist_image_detail/public/2023-03/Skrillex_2.jpg?itok=xrZTHolu" },
