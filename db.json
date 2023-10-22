@@ -20,6 +20,6 @@
     { "id": 50, "nombre": "Principios de la Fe Cristiana", "seccion": "001D", "profe": "Chayanne", "foto":"" },
     { "id": 60, "nombre": "Desarrollo de Software de Escritorio", "seccion": "001D", "profe": "Pablo Escobar", "foto":"" },
     { "id": 70, "nombre": "Programación de Bases de Datos", "seccion": "001D", "profe":"AuronPlay", "foto":"" },
-    { "id": 80, "nombre": "Desarrollo Web", "seccion": "001D", "profe":"AuronPlay", "foto":"" },
+    { "id": 80, "nombre": "Desarrollo Web", "seccion": "001D", "profe":"AuronPlay", "foto":"" }
   ]
 }
