@@ -1,7 +1,7 @@
 {
   "alumnos": [
     { "id": 1, "nombre": "Don Pepe", "correo": "donpepe@gmail.com", "contraseña": "pepedon123", "carrera": "Analista Programador Computacional", "foto": "https://play-lh.googleusercontent.com/fbOvQorG4BTqroLNqDGQyL_EGoiG80QQAtC2BiBO31hpR1Wx7OQk401ztq1kvECT2nk" },
-    { "id": 2, "nombre": "Carlos Pinto", "correo": "carlospinto@gmail.com", "contraseña": "carlos123", "carrera": "Analista Programador Computacional", "foto": "https://static.wikia.nocookie.net/teleserieschile/images/7/70/Carlos-Pinto-1-400x375.jpg/revision/latest?cb=20220901043318&path-prefix=es" },
+    { "id": 2, "nombre": "Carlos Pinto", "correo": "carlospinto@gmail.com", "contraseña": "carlos123", "carrera": "Analista Programador Computacional", "foto": "https://elfiltrador.com/wp-content/uploads/2020/01/Carlos-Pinto-1.jpg" },
     { "id": 3, "nombre": "Juan Carlos Bodoque", "correo": "jcbodoque@gmail.com", "contraseña": "juancab123", "carrera": "Analista Programador Computacional", "foto": "https://pm1.aminoapps.com/6559/4ff0e274771eb5fd6078846f0ea65680ac29b998_00.jpg" },
     { "id": 4, "nombre": "Skrillex", "correo": "skrillex@gmail.com", "contraseña": "licuadoras123", "carrera": "Analista Programador Computacional", "foto": "https://www.atlanticrecords.com/sites/g/files/g2000015596/files/styles/artist_image_detail/public/2023-03/Skrillex_2.jpg?itok=xrZTHolu" },
     { "id": 5, "nombre": "Bojack Horseman", "correo": "bojack@gmail.com", "contraseña": "soybojack123", "carrera": "Analista Programador Computacional", "foto": "https://cdn.vox-cdn.com/thumbor/P0c-GiZPwq8Qk5XQzWHrpRTMqLQ=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/3844120/bojack.0.jpg" }
