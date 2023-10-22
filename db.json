@@ -1,14 +1,25 @@
 {
   "alumnos": [
-    { "id": 1, "nombre": "Don Pepe", "correo": "donpepe@gmail.com", "contraseña": "pepedon123", "carrera": "Analista Programador Computacional", "foto": "" }
+    { "id": 1, "nombre": "Don Pepe", "correo": "donpepe@gmail.com", "contraseña": "pepedon123", "carrera": "Analista Programador Computacional", "foto": "https://play-lh.googleusercontent.com/fbOvQorG4BTqroLNqDGQyL_EGoiG80QQAtC2BiBO31hpR1Wx7OQk401ztq1kvECT2nk" },
+    { "id": 2, "nombre": "Carlos Pinto", "correo": "carlospinto@gmail.com", "contraseña": "carlos123", "carrera": "Analista Programador Computacional", "foto": "https://static.wikia.nocookie.net/teleserieschile/images/7/70/Carlos-Pinto-1-400x375.jpg/revision/latest?cb=20220901043318&path-prefix=es" },
+    { "id": 3, "nombre": "Juan Carlos Bodoque", "correo": "jcbodoque@gmail.com", "contraseña": "juancab123", "carrera": "Analista Programador Computacional", "foto": "https://pm1.aminoapps.com/6559/4ff0e274771eb5fd6078846f0ea65680ac29b998_00.jpg" },
+    { "id": 4, "nombre": "Skrillex", "correo": "skrillex@gmail.com", "contraseña": "licuadoras123", "carrera": "Analista Programador Computacional", "foto": "https://www.atlanticrecords.com/sites/g/files/g2000015596/files/styles/artist_image_detail/public/2023-03/Skrillex_2.jpg?itok=xrZTHolu" },
+    { "id": 5, "nombre": "Bojack Horseman", "correo": "bojack@gmail.com", "contraseña": "soybojack123", "carrera": "Analista Programador Computacional", "foto": "https://cdn.vox-cdn.com/thumbor/P0c-GiZPwq8Qk5XQzWHrpRTMqLQ=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/3844120/bojack.0.jpg" }
   ],
   "profe": [
-    { "id": 1, "nombre": "Luis Dimas", "correo": "luisdimas@gmail.com", "contraseña": "nuncanunca123", "idAsignatura":[ 10,30], "foto": "" }
+    { "id": 1, "nombre": "Luis Dimas", "correo": "luisdimas@gmail.com", "contraseña": "nuncanunca123", "idAsignatura":[ 10,30], "foto": "https://redgol.cl/__export/1637246835142/sites/redgol/img/2021/11/18/luis-dimas_4_crop1637246649306.jpg_1159711837.jpg" },
+    { "id": 2, "nombre": "Pablo Escobar", "correo": "pabloesco@gmail.com", "contraseña": "plataoplomo", "idAsignatura":[ 20,60], "foto": "https://cdn.britannica.com/15/188715-050-94EA4753/Pablo-Escobar-1991.jpg" },
+    { "id": 3, "nombre": "Chayanne", "correo": "chayanne@gmail.com", "contraseña": "torero123", "idAsignatura":[ 40,50], "foto": "https://s.yimg.com/ny/api/res/1.2/SGUs.R_MHuqdibgCw.1tLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MA--/https://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/47b53482de54ae42b9dc54faf8889145" },
+    { "id": 4, "nombre": "AuronPlay", "correo": "auronplay@gmail.com", "contraseña": "abduzcan123", "idAsignatura":[ 70,80], "foto": "https://static.wikia.nocookie.net/youtubepedia/images/0/0e/Auronplay.jpg/revision/latest?cb=20150424231943&path-prefix=es" }
   ],
   "asignatura": [
-   { "id": 10, "nombre": "Programación Mobile", "seccion": "001D", "foto":"" },
-   { "id": 20, "nombre": "Consulta de Bases de Datos", "seccion": "001D", "profe":"Luis Dimas", "foto":"" },
-   { "id": 30, "nombre": "Portafolio de Titulo", "seccion": "001D", "profe":"Luis Dimas", "foto":"" }
+    { "id": 10, "nombre": "Programación Mobile", "seccion": "001D", "profe": "Luis Dimas", "foto":"" },
+    { "id": 20, "nombre": "Consulta de Bases de Datos", "seccion": "001D", "profe": "Pablo Escobar", "foto":"" },
+    { "id": 30, "nombre": "Portafolio de Titulo", "seccion": "001D", "profe": "Luis Dimas", "foto":"" },
+    { "id": 40, "nombre": "Etica para el Trabajo", "seccion": "001D", "profe": "Chayanne", "foto":"" },
+    { "id": 50, "nombre": "Principios de la Fe Cristiana", "seccion": "001D", "profe": "Chayanne", "foto":"" },
+    { "id": 60, "nombre": "Desarrollo de Software de Escritorio", "seccion": "001D", "profe": "Pablo Escobar", "foto":"" },
+    { "id": 70, "nombre": "Programación de Bases de Datos", "seccion": "001D", "profe":"AuronPlay", "foto":"" },
+    { "id": 80, "nombre": "Desarrollo Web", "seccion": "001D", "profe":"AuronPlay", "foto":"" },
   ]
-
 }
